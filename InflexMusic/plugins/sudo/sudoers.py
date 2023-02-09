@@ -15,7 +15,7 @@ from strings import get_command
 from InflexMusic import app
 from InflexMusic.misc import SUDOERS
 from InflexMusic.utils.database import add_sudo, remove_sudo
-from INflexMusic.utils.decorators.language import language
+from InflexMusic.utils.decorators.language import language
 
 # Command
 ADDSUDO_COMMAND = get_command("ADDSUDO_COMMAND")
