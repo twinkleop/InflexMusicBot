@@ -31,7 +31,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = YukkiBot()
+app = InflexBot()
 
 # Assistant Client
 userbot = Userbot()
