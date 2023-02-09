@@ -16,6 +16,7 @@
 ## ⚠️ Heroku / Okteto / Railway
 
 We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Reason : We’ve removed heroku deployment because of support for Heroku after their parent company Salesforce started nuking accounts used for streaming / downloading / uploading to Telegram or similar platforms.
 
 
@@ -47,7 +48,7 @@ Press Ctrl + C  once you are done with editing vars and type :wq to save .env or
 
 11. python3 -m InflexMusic
 
-________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 
 # 🏷 Support / Assistance
 
