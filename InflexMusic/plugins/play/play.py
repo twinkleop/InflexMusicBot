@@ -21,7 +21,7 @@ from config import BANNED_USERS, lyrical
 from strings import get_command
 from InflexMusic import (Apple, Resso, SoundCloud, Spotify, Telegram,
                         YouTube, app)
-from InflexMusic.core.call import Yukki
+from InflexMusic.core.call import Inflex
 from InflexMusic.utils import seconds_to_min, time_to_seconds
 from InflexMusic.utils.channelplay import get_channeplayCB
 from InflexMusic.utils.database import is_video_allowed
