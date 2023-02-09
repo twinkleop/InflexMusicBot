@@ -13,7 +13,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS
 from strings import get_command
 from InflexMusic import app
-from InflexMusic.core.call import Yukki
+from InflexMusic.core.call import Inflex
 from InflexMusic.utils.database import is_muted, mute_on
 from InflexMusic.utils.decorators import AdminRightsCheck
 
