@@ -30,7 +30,7 @@ from InflexMusic.utils.database import (get_active_chats,
                                        remove_active_chat,
                                        remove_active_video_chat)
 from InflexMusic.utils.decorators.language import language
-from InflexMusic.utils.pastebin import Inflexibin
+from InflexMusic.utils.pastebin import Inflexbin
 
 # Commands
 GETLOG_COMMAND = get_command("GETLOG_COMMAND")
