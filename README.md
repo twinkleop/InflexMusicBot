@@ -15,7 +15,8 @@
 
 ## ⚠️ Heroku / Okteto / Railway
 
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/InflexUpdates/47)
+We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment.
+Reason : We’ve removed heroku deployment because of support for Heroku after their parent company Salesforce started nuking accounts used for streaming / downloading / uploading to Telegram or similar platforms.
 
 
 ## 🖇 VPS Deployment
