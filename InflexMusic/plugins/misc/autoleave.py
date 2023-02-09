@@ -12,7 +12,7 @@ from datetime import datetime
 
 import config
 from InflexMusic import app
-from InflexMusic.core.call import Yukki, autoend
+from InflexMusic.core.call import Inflex, autoend
 from InflexMusic.utils.database import (get_client, is_active_chat,
                                        is_autoend)
 
