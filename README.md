@@ -1,6 +1,6 @@
 # [Inflex Music Bot](https://github.com/TeamInflex/InflexMusicBot)
 
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="300" height="300"/>
+<img src="https://te.legra.ph/file/692d2cb567251ababf3f8.jpg" align="right" width="300" height="300"/>
 
 
 
