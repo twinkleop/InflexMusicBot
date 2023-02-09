@@ -20,7 +20,7 @@ from config import BANNED_USERS
 from strings import get_command
 from InflexMusic import app
 from InflexMusic.misc import db
-from InflexMusic.utils import (Inflexibin, get_channeplayCB,
+from InflexMusic.utils import (Inflexbin, get_channeplayCB,
                               seconds_to_min)
 from InflexMusic.utils.database import (get_cmode, is_active_chat,
                                        is_music_playing)
