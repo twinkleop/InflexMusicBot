@@ -22,31 +22,7 @@ Reason : We’ve removed heroku deployment because of support for Heroku after t
 
 ## 🖇 VPS Deployment
 
-1. sudo apt-get update && sudo apt-get upgrade -y
-
-2. sudo apt-get install python3-pip ffmpeg -y
-
-3. sudo pip3 install -U pip
-
-4. curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-
-5. git clone https://github.com/TeamInflex/InflexMusicBot &&  cd InflexMusicBot
-
-6. pip3 install -U -r requirements.txt
-
-7. cp sample.env .env
-
-8. vi .env
-
-Edit .env with your values or you can simple copy a config from here and paste it to your notepad, then edit and paste there.
-Press I button on keyboard to start editing.
-Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.
-
-9. Finally Run Inflex Music Bot
-
-10 . sudo apt install tmux && tmux
-
-11. python3 -m InflexMusic
+Checkout [Docs](https://teams-inflex.gitbook.io/inflex-music-bot-docs/deployments/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 _____________________________________________________________________________________________________________________________________
 
