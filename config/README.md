@@ -91,6 +91,7 @@ Config vars are basically the variables which configure or modify bot to functio
 ## Images/Thumbnail Vars
 
 - You can change images which are used in Inflex Music Bot.
+- You can generate telegaph links from @InflexTelegraphBot and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
@@ -110,7 +111,8 @@ Config vars are basically the variables which configure or modify bot to functio
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
-1. `STRING_SESSION2` : Pyrogram Session Needed .
-2. `STRING_SESSION3` : Pyrogram Session Needed .
-3. `STRING_SESSION4` : Pyrogram Session Needed .
-4. `STRING_SESSION5` : Pyrogram Session Needed .
+1. `STRING_SESSION` : Pyrogram Session Needed . Generate string from [@StringSessionGenerator_Bot](https://t.me/StringSessionGenerator_Bot) in Telegram.
+2. `STRING_SESSION2` : Pyrogram Session Needed . Generate string from [@StringSessionGenerator_Bot](https://t.me/StringSessionGenerator_Bot) in Telegram.
+3. `STRING_SESSION3` : Pyrogram Session Needed . Generate string from [@StringSessionGenerator_Bot](https://t.me/StringSessionGenerator_Bot) in Telegram.
+4. `STRING_SESSION4` : Pyrogram Session Needed . Generate string from [@StringSessionGenerator_Bot](https://t.me/StringSessionGenerator_Bot) in Telegram.
+5. `STRING_SESSION5` : Pyrogram Session Needed . Generate string from [@StringSessionGenerator_Bot](https://t.me/StringSessionGenerator_Bot) in Telegram.
